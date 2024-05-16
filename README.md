@@ -8,7 +8,7 @@
 ###### it will return the title of the most similar movie.
 
 
-#### IDE used = Virtual Studio, OP = Windows 11, Language = Python
+#### IDE used = Visual Studio, OP = Windows 11, Language = Python
 ###### 3.1 Clone repository with command below. Must have Git & Github installed.
 ######  git clone https://github.com/CrypticDG/NLPvector
 ######  3.2 Move to project root folder
